@@ -10,3 +10,7 @@
   mask: url('');
   displ: none;
 }
+
+.goodSelector {
+  display: block;
+}
