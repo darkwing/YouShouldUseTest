@@ -5,3 +5,7 @@
 .baddie {
   appearance: pink;
 }
+
+.more {
+  -moz-appearance: red;
+}
