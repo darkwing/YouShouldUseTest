@@ -1,28 +1,3 @@
-.selector {
-  fakeProperty: 3;
-}
-
-.anotherSelector {
-  perop: 1;
-}
-
-.lastSelector {
-  mask: url('');
-  displ: none;
-}
-
-.goodSelector {
-  display: block;
-}
-
-.bad1 {
-  mask: url('');
-}
-
-.bad2 {
-  -webkit-appearance: rain;
-}
-
 .good {
   color: red;
 }
