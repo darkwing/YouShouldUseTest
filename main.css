@@ -5,3 +5,8 @@
 .anotherSelector {
   perop: 1;
 }
+
+.lastSelector {
+  mask: url('');
+  displ: none;
+}
