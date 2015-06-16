@@ -14,3 +14,11 @@
 .goodSelector {
   display: block;
 }
+
+.bad1 {
+  mask: url('');
+}
+
+.bad2 {
+  -webkit-appearance: rain;
+}
