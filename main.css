@@ -1,3 +1,7 @@
 .selector {
   fakeProperty: 3;
 }
+
+.anotherSelector {
+  perop: 1;
+}
