@@ -1,4 +1,4 @@
-.good {
+.whatever {
   color: red;
 }
 
@@ -12,4 +12,8 @@
 
 .mass {
   mask: url('blah');
+}
+
+.moreError {
+  -webkit-appearance: yellow;
 }
