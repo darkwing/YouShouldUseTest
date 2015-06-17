@@ -9,3 +9,7 @@
 .more {
   -moz-appearance: red;
 }
+
+.mass {
+  mask: url('blah');
+}
