@@ -17,3 +17,7 @@
 .moreError {
   -webkit-appearance: yellow;
 }
+
+.anotherError {
+  mask: url('faaa');
+}
