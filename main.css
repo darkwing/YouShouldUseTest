@@ -21,3 +21,8 @@
 .anotherError {
   mask: url('faaa');
 }
+
+.gross {
+	mask: url('...');
+	-webkit-appearance: textfield;
+}
