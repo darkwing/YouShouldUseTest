@@ -26,3 +26,8 @@
 	mask: url('...');
 	-webkit-appearance: textfield;
 }
+
+.mas {
+	display: none;
+	-webkit-appearance: textfield;
+}
