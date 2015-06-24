@@ -1,0 +1,4 @@
+.bad {
+  mask: url('something.sv');
+  appearance: textfield;
+}
