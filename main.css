@@ -1,28 +1,11 @@
-.whatever {
-  color: red;
+
+body {
+	test-unexisting-rule-2: 123;
+	width: 50px;
+	opacity: 5%;
 }
 
-.baddie {
-  appearance: pink;
-}
-
-.more {
-  -moz-appearance: red;
-}
-
-.mass {
-  mask: url('blah');
-}
-
-.moreError {
-  -webkit-appearance: yellow;
-}
-
-.anotherError {
-  mask: url('faaa');
-}
-
-.gross {
-	mask: url('...');
-	-webkit-appearance: textfield;
+.test {
+	opacity: 10%;
+	appearance: textfield;
 }
