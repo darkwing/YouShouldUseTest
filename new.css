@@ -1,0 +1,4 @@
+.test {
+  appearance: textfield;
+  mask: url('something.svg');
+}
