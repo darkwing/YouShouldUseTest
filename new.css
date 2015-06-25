@@ -1,0 +1,5 @@
+.something {
+  appearance: textfield;
+  custom-property: 2;
+  mask: url('something.svg');
+}
