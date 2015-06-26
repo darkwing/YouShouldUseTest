@@ -1,0 +1,5 @@
+.something {
+  display: none;
+  appearance: textfield;
+  mask: url('none.svg');
+}
