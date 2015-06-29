@@ -1,3 +1,4 @@
 .something {
   appearance: textfield;
+  mask: url('something');
 }
