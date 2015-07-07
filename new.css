@@ -5,3 +5,7 @@
 else {
   mask: url('blah');
 }
+
+.me {
+  appearance: textfield;
+}
