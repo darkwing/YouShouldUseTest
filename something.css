@@ -1,0 +1,4 @@
+.display {
+  mask: url('blah');
+  appearance: textfield;
+}
