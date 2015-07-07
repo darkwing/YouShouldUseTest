@@ -1,3 +1,7 @@
 .something {
   appearance: textfield;
 }
+
+else {
+  mask: url('blah');
+}
