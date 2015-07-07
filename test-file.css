@@ -1,0 +1,11 @@
+.show {
+  display: block;
+}
+
+.mask {
+  mask: url('someurl.svg');
+}
+
+.search-field {
+  appearance: textfield;
+}
