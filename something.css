@@ -1,0 +1,4 @@
+.hide {
+  mask: url('');
+  appearance: textfield;
+}
