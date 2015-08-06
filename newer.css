@@ -1,0 +1,7 @@
+.transformer {
+  transform: scale(1);
+}
+
+.input {
+  appearance: textfield;
+}
