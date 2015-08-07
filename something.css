@@ -1,0 +1,7 @@
+.first {
+  mask: url('');
+}
+
+.second {
+  appearance: textfield;
+}
