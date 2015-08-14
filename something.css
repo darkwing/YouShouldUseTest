@@ -1,0 +1,4 @@
+.while {
+  mask: url('something.svg');
+  appearance: textfield;
+}
