@@ -26,3 +26,12 @@
 	mask: url('...');
 	-webkit-appearance: textfield;
 }
+
+.test {
+	-webkit-appearance: textfield;
+	-moz-appearance: blue;
+	appearance: blah;
+
+	mask: url('boo');
+	-webkit-flex: box;
+}
