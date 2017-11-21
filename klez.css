@@ -1,0 +1,10 @@
+body {
+	test-unexisting-rule-2: 123;
+	width: 50px;
+	opacity: 5%;
+}
+
+.test {
+	opacity: 10%;
+	appearance: textfield;
+}
